@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌟 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:
-Hello, I'm Rose, a budding programmer with a passion for data, automation, and all things Python 🐍! Making life easier, more efficient, and a lot more fun by learning, growing, and coding my way through the world of data
+🌹 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:
+Hi, I'm Rose! As a curious learner and aspiring programmer, I'm diving into the world of Python and data 🐍📊. I believe in the power of automation to make life more efficient, giving us more time for the things that truly matter. When I'm not coding, you can find me exploring new experiences and embracing the beauty of everyday life!
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@roseyAI/30-nites-of-code)  
