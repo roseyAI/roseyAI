@@ -2,9 +2,7 @@
 🌹 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:
 Hi, I'm Rose! As a curious learner and aspiring programmer, I'm diving into the world of Python and data 🐍📊. I believe in the power of automation to make life more efficient, giving us more time for the things that truly matter. When I'm not coding, you can find me exploring new experiences and embracing the beauty of everyday life!
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@roseyAI/30-nites-of-code)  
-  ![@roseyAI #30NitesOfCode](https://www.codedex.io/api/petStatus?user=roseyAI)
+
 <!--
 **roseyAI/roseyAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
