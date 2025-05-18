@@ -1,7 +1,6 @@
 ### Hi there 👋
-🌹 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:
-Hi, I'm Rose! As a curious learner and aspiring programmer, I'm diving into the world of Python and data 🐍📊. I believe in the power of automation to make life more efficient, giving us more time for the things that truly matter. When I'm not coding, you can find me exploring new experiences and embracing the beauty of everyday life!
-
+About me:
+Hi, I'm Rose! As a curious learner and aspiring  automation specialist. I'm diving into the world of automation and AI 🤖💡. I believe in the power of smart technology to make life more efficient, freeing up time for the things that truly matter. When I'm not working on tech projects, you can find me exploring new experiences and embracing the beauty of everyday life!
 
 <!--
 **roseyAI/roseyAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
